@@ -1,0 +1,4 @@
+#Sat Oct 21 06:39:39 PKT 2023
+base.0=C\:\\Studio Projects\\login_page_ali\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
